@@ -1,0 +1,1 @@
+<img <?php echo e($attributes); ?> src="<?php echo e(asset('images/logo.png')); ?>" alt="Logo Aplikasi"><?php /**PATH D:\laragon\www\myapp\resources\views/components/application-logo.blade.php ENDPATH**/ ?>
